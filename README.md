@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/gabrielscota/gabrielscota/master/Header.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile Developer who is exploring Flutter while facilitating the world with User Experience with my Design Thinking Skills 😉
+### I am a Full-stack Mobile Developer who is exploring Flutter while facilitating the world with User Experience with my Design Thinking Skills 😉
 
 - 🔭 I’m currently working on [Usemobile](https://github.com/usemobile)
 - 🌱 I’m currently learning Dart and Flutter
@@ -41,8 +41,6 @@ I am a Full-stack Mobile Developer who is exploring Flutter while facilitating t
 [![Gabriel Scotá Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscota&layout=compact&show_icons=true&title_color=212121&text_color=212121&bg_color=FFFFFF)](https://github.com/gabrielscota/)
 
 ---
-
-<br>
 
 ### You can find me on
 
