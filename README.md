@@ -10,10 +10,8 @@ My name is Gabriel Scotá and I'm experienced (+5 years)
 
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
