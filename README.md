@@ -1,9 +1,7 @@
 ### Hi there, I'm Gabriel Scotá! 👋
-<br>
-
----
 
 <br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielscota/gabrielscota/master/Header.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -13,12 +11,6 @@ I am a Full-stack Mobile Developer who is exploring Flutter while facilitating t
 - 🔭 I’m currently working on [Usemobile](https://github.com/usemobile)
 - 🌱 I’m currently learning Dart and Flutter
 - 💬 Ask me about anything [here](https://github.com/gabrielscota/gabrielscota/issues)
-
----
-
-### You can find me on:
-[![Linkedin Profile](https://img.shields.io/badge/-gabrielscota-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-scotá-787518142/)
-[![Medium Profile](https://img.shields.io/badge/-gabrielscota-000?style=flat&logo=Medium&logoColor=white)](https://www.linkedin.com/in/gabriel-scotá-787518142/)
 
 ---
 
@@ -38,7 +30,6 @@ I am a Full-stack Mobile Developer who is exploring Flutter while facilitating t
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff">
 
-
 ---
 
 <br>
@@ -48,3 +39,12 @@ I am a Full-stack Mobile Developer who is exploring Flutter while facilitating t
 <br>
 
 [![Gabriel Scotá Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscota&layout=compact&show_icons=true&title_color=212121&text_color=212121&bg_color=FFFFFF)](https://github.com/gabrielscota/)
+
+---
+
+<br>
+
+### You can find me on
+
+[![Linkedin Profile](https://img.shields.io/badge/-gabrielscota-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-scotá-787518142/)
+[![Medium Profile](https://img.shields.io/badge/-gabrielscota-12100E?style=flat&logo=Medium&logoColor=white)](https://www.linkedin.com/in/gabriel-scotá-787518142/)
