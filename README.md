@@ -45,4 +45,4 @@
 ### You can find me on
 
 [![Linkedin Profile](https://img.shields.io/badge/-gabrielscota-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-scotá-787518142/)
-[![Medium Profile](https://img.shields.io/badge/-gabrielscota-12100E?style=flat&logo=Medium&logoColor=white)](https://www.linkedin.com/in/gabriel-scotá-787518142/)
+[![Medium Profile](https://img.shields.io/badge/-gabrielscota-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@gabrielscota)
