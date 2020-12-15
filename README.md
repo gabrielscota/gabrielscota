@@ -23,13 +23,13 @@ I am a Full-stack Mobile Developer who is exploring Flutter while facilitating t
 ---
 
 ### Language & Tools
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=212121">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### Other Languages I know
