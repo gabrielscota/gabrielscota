@@ -38,7 +38,7 @@ I am a Full-stack Mobile Developer who is exploring Flutter while facilitating t
 
 <br>
 
-[![Gabriel Scotá Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscota&layout=compact&show_icons=true&title_color=212121&text_color=212121&bg_color=FFFFFF)](https://github.com/gabrielscota/)
+[![Gabriel Scotá Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscota&hide=javascript,php,css&layout=compact&show_icons=true&title_color=212121&text_color=212121&bg_color=FFFFFF)](https://github.com/gabrielscota/)
 
 ---
 
