@@ -1,11 +1,6 @@
 ### Hi there, I'm Gabriel Scotá! 👋
 
 <br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielscota/gabrielscota/master/Header.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Full-stack Mobile Developer who is exploring Flutter while facilitating the world with User Experience with my Design Thinking Skills 😉
 
 - 🌱 I’m currently learning Dart and Flutter
