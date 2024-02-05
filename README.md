@@ -1,6 +1,5 @@
 ### Hi there, I'm Gabriel Scotá! 👋
 
-<br>
 I am a Full-stack Mobile Developer who is exploring Flutter while facilitating the world with User Experience with my Design Thinking Skills 😉
 
 - 🌱 I’m currently learning Dart and Flutter
